@@ -8,7 +8,7 @@ If you use Vundle, add the following to your .vimrc:
 Plugin isundil/vim-irssi-syntax
 ```
 
-Then run inside vim
+Then run from command-line:
 ```bash
 vim +PluginInstall
 ```
